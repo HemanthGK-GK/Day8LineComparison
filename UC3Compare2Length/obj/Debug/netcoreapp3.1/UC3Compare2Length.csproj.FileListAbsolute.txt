@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\UC3Compare2Length\bin\Debug\netcoreapp3.1\UC3Compare2Length.exe
+C:\Users\91807\Desktop\Batch67\UC3Compare2Length\bin\Debug\netcoreapp3.1\UC3Compare2Length.deps.json
+C:\Users\91807\Desktop\Batch67\UC3Compare2Length\bin\Debug\netcoreapp3.1\UC3Compare2Length.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\UC3Compare2Length\bin\Debug\netcoreapp3.1\UC3Compare2Length.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\UC3Compare2Length\bin\Debug\netcoreapp3.1\UC3Compare2Length.dll
+C:\Users\91807\Desktop\Batch67\UC3Compare2Length\bin\Debug\netcoreapp3.1\UC3Compare2Length.pdb
+C:\Users\91807\Desktop\Batch67\UC3Compare2Length\obj\Debug\netcoreapp3.1\UC3Compare2Length.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\UC3Compare2Length\obj\Debug\netcoreapp3.1\UC3Compare2Length.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\UC3Compare2Length\obj\Debug\netcoreapp3.1\UC3Compare2Length.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\UC3Compare2Length\obj\Debug\netcoreapp3.1\UC3Compare2Length.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\UC3Compare2Length\obj\Debug\netcoreapp3.1\UC3Compare2Length.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\UC3Compare2Length\obj\Debug\netcoreapp3.1\UC3Compare2Length.dll
+C:\Users\91807\Desktop\Batch67\UC3Compare2Length\obj\Debug\netcoreapp3.1\UC3Compare2Length.pdb
+C:\Users\91807\Desktop\Batch67\UC3Compare2Length\obj\Debug\netcoreapp3.1\UC3Compare2Length.genruntimeconfig.cache
